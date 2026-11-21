@@ -12,10 +12,10 @@
 
 ## Fortnite keybinds
 
-Open **Settings → Keyboard Controls** (the arrow keys icon) and bind **Building Edit** to <kbd>F</kbd>. [Epic Games settings guide](https://www.epicgames.com/help/c-34254770/c-81/a10326284)
+Open **Settings → Keyboard Controls** (the arrow keys icon) and bind **Building Edit** to <kbd>F</kbd>. [Epic Games settings guide](https://www.epicgames.com/help/c-34254770/c-81/a10326284?lang=en-US)
 
 > [!IMPORTANT]
-> Bind **Select Building Edit** (**« Sélectionner la modification »** in French) to <kbd>G</kbd>, then apply your changes.
+> Bind **Select Building Edit** to <kbd>G</kbd>, then apply your changes.
 
 ## Run the macro
 
